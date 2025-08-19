@@ -268,9 +268,9 @@ Each new execution requires changing the bw project and the database names withi
 
 5. ***Process results and plot***
 
-+ Execute **Plot_figures.py** which will fill up the output folders with the corresponding plots and excel, csv files.
++ Execute **Plot_figures.py** which fill up the output folders with the corresponding plots and excel, csv files.
 
-+ Execute **Plot_distributions.R.** to produce the distributions plot (Figure 5). It required processed output from Plot_figures.py. 
++ Execute **Plot_distributions.R.** to produce the distributions plot (Figure 5). It requires processed outputs from Plot_figures.py. 
 
 
 6. ***GSA***
