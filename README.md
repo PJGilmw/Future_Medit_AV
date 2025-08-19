@@ -9,9 +9,10 @@ This repository contains the code used to reproduce the results of the article: 
 **Cite this repository:**
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13121149.svg)](https://doi.org/10.5281/zenodo.13861243)
 
- 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16901801.svg)](https://doi.org/10.5281/zenodo.16901801)
+
+
 ### Overview of folders and files:
 
 
